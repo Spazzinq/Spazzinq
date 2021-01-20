@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hey 👋 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spazzinq&layout=compact&hide_border=true" width=460>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Spazzinq&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&hide_title=true&hide=stars&hide_border=true" width=460>
+
+I’m a programmer from Ohio.
+
+It's a pleasure to meet you.
 
 <!--
 **Spazzinq/Spazzinq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
