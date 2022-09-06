@@ -1,4 +1,4 @@
-### Hey there 👋 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Spazzinq&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&&hide=stars&hide_border=true&custom_title=My Stats" width=360>
+### Hey there 👋 
 
 I’m a software developer from the Ohio State University with significant experience in Java, Python, and Docker.
 
