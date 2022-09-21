@@ -1,6 +1,6 @@
 ### Hey there 👋 
 
-I’m a software developer from the Ohio State University with significant experience in Java, Python, and Docker.
+I’m a software developer from Swarthmore College with significant experience in Java, Python, and Docker.
 
 It's a pleasure to meet you.
 
